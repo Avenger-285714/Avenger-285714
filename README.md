@@ -58,14 +58,7 @@ Charts will show up here after a few days of tracking.
 ## Recent activity / 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
-2. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
-3. 💪 Opened PR [#2166](undefined) in [deepin-community/kernel](https://github.com/deepin-community/kernel)<br>
-4. ⬆️ Pushed undefined commit(s) to [Avenger-285714/kimi-code](https://github.com/Avenger-285714/kimi-code)<br>
-5. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
-6. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
-7. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
-8. ⬆️ Pushed undefined commit(s) to [Avenger-285714/DeepinKernel](https://github.com/Avenger-285714/DeepinKernel)<br>
+1. 💪 Opened a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## What I'm working on / 在做什么
