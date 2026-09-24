@@ -3,8 +3,6 @@
   <img src="assets/banner-light.svg" width="100%" alt="WangYuli, Linux kernel development">
 </picture>
 
-<div align="center">
-
 ## About / 关于
 
 I'm WangYuli, Linux Kernel developer.
@@ -13,16 +11,20 @@ I'm WangYuli, Linux Kernel developer.
 
 ## GitHub stats / 统计
 
-<picture></picture><picture></picture>
+<div align="center">
 
-<picture></picture><picture></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg"><img src="profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="profile details"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg"><img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="stats"></picture>
 
-<picture></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="repositories per language"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg"><img src="profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="productive time"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg"><img src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="most commit language"></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Avenger-285714&theme=github-dark-blue&hide_border=true">
   <img src="https://streak-stats.demolab.com?user=Avenger-285714&theme=github&hide_border=true" width="60%" alt="commit streak">
 </picture>
+
+</div>
 
 ## My programming activity / 编程活动
 
@@ -66,10 +68,8 @@ Charts will show up here after a few days of tracking.
 
 ## What I'm working on / 在做什么
 
-- [wyl-linux-dev](https://github.com/Avenger-285714/wyl-linux-dev): my Linux kernel development tree
-- I keep forks of [LTP](https://github.com/Avenger-285714/ltp), [blktests](https://github.com/Avenger-285714/blktests), [ublksrv](https://github.com/Avenger-285714/ublksrv) and [liburing](https://github.com/Avenger-285714/liburing) for block layer testing and userspace IO work.
-- [wyl-linux-dev](https://github.com/Avenger-285714/wyl-linux-dev)：我的 Linux 内核开发树
-- 平时也维护 [LTP](https://github.com/Avenger-285714/ltp)、[blktests](https://github.com/Avenger-285714/blktests)、[ublksrv](https://github.com/Avenger-285714/ublksrv)、[liburing](https://github.com/Avenger-285714/liburing) 的 fork，做块层测试和用户态 IO。
+- [wyl-linux-dev](https://github.com/Avenger-285714/wyl-linux-dev): my Linux kernel development tree / 我的 Linux 内核开发树
+- [LTP](https://github.com/Avenger-285714/ltp) · [blktests](https://github.com/Avenger-285714/blktests) · [ublksrv](https://github.com/Avenger-285714/ublksrv) · [liburing](https://github.com/Avenger-285714/liburing): forks I keep for block layer testing and userspace IO / 我维护的 fork，用于块层测试和用户态 IO
 
 ## Find me / 联系
 
