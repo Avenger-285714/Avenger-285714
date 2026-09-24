@@ -5,27 +5,19 @@
 
 <div align="center">
 
-[![visitors](https://komarev.com/ghpvc/?username=Avenger-285714&style=flat-square&color=blue)](https://github.com/Avenger-285714)
-[![blog](https://img.shields.io/badge/blog-avenger--285714.github.io-3fb950?style=flat-square)](https://avenger-285714.github.io)
-[![deepin](https://img.shields.io/badge/packages-deepin-007CFF?style=flat-square)](https://www.deepin.org)
-
-<a href="https://readme-typing-svg.demolab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=E6EDF3&random=false&width=640&lines=Linux+kernel+development+in+C;block+layer+%2F+storage+IO;Rust+for+tools+and+desktop+apps"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=1F2328&random=false&width=640&lines=Linux+kernel+development+in+C;block+layer+%2F+storage+IO;Rust+for+tools+and+desktop+apps" alt="typing"></picture></a>
-
-</div>
-
 ## About / 关于
 
-I'm WangYuli, a system software developer in Beijing. Most of my work is on the Linux kernel, mainly the block layer and storage IO paths. I also build packages for deepin and write Rust tools on the side.
+I'm WangYuli, Linux Kernel developer.
 
-我是 WangYuli，在北京做系统软件。主要写 Linux 内核，集中在块层和存储 IO；平时也给 deepin 打包，业余写点 Rust。
+我是 WangYuli，Linux 内核开发者。
 
 ## GitHub stats / 统计
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg"><img src="profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="profile details"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg"><img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="stats"></picture>
+<picture></picture><picture></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="repositories per language"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg"><img src="profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="productive time"></picture>
+<picture></picture><picture></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg"><img src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="most commit language"></picture>
+<picture></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Avenger-285714&theme=github-dark-blue&hide_border=true">
@@ -67,25 +59,19 @@ Charts will show up here after a few days of tracking.
 ## Recent activity / 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)<br>
+
+1. 💪 Opened a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)
+
 <!--RECENT_ACTIVITY:end-->
 
 ## What I'm working on / 在做什么
 
 - [wyl-linux-dev](https://github.com/Avenger-285714/wyl-linux-dev): my Linux kernel development tree
-- [MailArrow](https://github.com/Avenger-285714/MailArrow): a mail client written in Rust
-- [stardust](https://github.com/Avenger-285714/stardust): an experiment rebuilding spark-store in Rust
 - I keep forks of [LTP](https://github.com/Avenger-285714/ltp), [blktests](https://github.com/Avenger-285714/blktests), [ublksrv](https://github.com/Avenger-285714/ublksrv) and [liburing](https://github.com/Avenger-285714/liburing) for block layer testing and userspace IO work.
-
 - [wyl-linux-dev](https://github.com/Avenger-285714/wyl-linux-dev)：我的 Linux 内核开发树
-- [MailArrow](https://github.com/Avenger-285714/MailArrow)：Rust 写的邮件客户端
-- [stardust](https://github.com/Avenger-285714/stardust)：用 Rust 重写 spark-store 的实验
 - 平时也维护 [LTP](https://github.com/Avenger-285714/ltp)、[blktests](https://github.com/Avenger-285714/blktests)、[ublksrv](https://github.com/Avenger-285714/ublksrv)、[liburing](https://github.com/Avenger-285714/liburing) 的 fork，做块层测试和用户态 IO。
 
 ## Find me / 联系
 
-- Blog: <https://avenger-285714.github.io>
+- Blog: [https://avenger-285714.github.io](https://avenger-285714.github.io)
 - GitHub: [@Avenger-285714](https://github.com/Avenger-285714)
-
-- 博客：<https://avenger-285714.github.io>
-- GitHub：[@Avenger-285714](https://github.com/Avenger-285714)
