@@ -1,0 +1,13 @@
+settings:
+  commit_msg: "chore: update recent activity"
+  max_lines: 8
+  disabled_events:
+    - comments
+    - star
+    - fork
+    - create_repo
+    - wiki
+  date:
+    timezone: "GMT+08:00"
+    text: "Last updated: {DATE}"
+    format: "yyyy-mm-dd HH:MM"
