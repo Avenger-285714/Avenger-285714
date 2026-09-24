@@ -18,9 +18,11 @@ I'm WangYuli, a system software developer in Beijing. Most of my work is on the 
 
 ## GitHub stats / 统计
 
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details"><img src="profile-summary-card-output/github_dark/2-repos-commit-by-repo.svg" width="49%" alt="commits by repository">
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details"><img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats">
 
-<img src="profile-summary-card-output/github_dark/1-repos-commit-language.svg" width="49%" alt="commits by language"><img src="profile-summary-card-output/github_dark/productive-time.svg" width="49%" alt="productive time">
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repositories per language"><img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time">
+
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most commit language">
 
 <img src="https://streak-stats.demolab.com?user=Avenger-285714&theme=github-dark-blue&hide_border=true" width="60%" alt="commit streak">
 
