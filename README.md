@@ -61,9 +61,7 @@ Charts will show up here after a few days of tracking.
 ## Recent activity / 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-
-1. 💪 Opened a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)
-
+1. 💪 Opened a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## What I'm working on / 在做什么
