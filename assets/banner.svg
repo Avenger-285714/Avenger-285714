@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img" aria-label="WangYuli, Linux kernel development">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#10161f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="920" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="920" height="260" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="918" height="258" rx="13" fill="none" stroke="#30363d"/>
+
+  <!-- terminal window -->
+  <rect x="28" y="42" width="440" height="182" rx="10" fill="#090c10" stroke="#30363d"/>
+  <path d="M 28 52 a 10 10 0 0 1 10 -10 h 420 a 10 10 0 0 1 10 10 v 10 h -440 z" fill="#161b22"/>
+  <circle cx="46" cy="52" r="4" fill="#ff5f57"/>
+  <circle cx="62" cy="52" r="4" fill="#febc2e"/>
+  <circle cx="78" cy="52" r="4" fill="#28c840"/>
+  <text x="248" y="56" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#8b949e" text-anchor="middle">wangyuli@linux: ~</text>
+
+  <g font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">
+    <text x="44" y="94"><tspan fill="#3fb950">$</tspan> whoami</text>
+    <text x="56" y="116" fill="#8b949e">wangyuli</text>
+    <text x="44" y="148"><tspan fill="#3fb950">$</tspan> cat /proc/interests</text>
+    <text x="56" y="170" fill="#8b949e">block layer · io_uring · rust</text>
+    <text x="44" y="202" fill="#3fb950">$</text>
+    <rect x="58" y="191" width="8" height="14" fill="#3fb950">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- identity -->
+  <text x="500" y="106" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="38" font-weight="700" fill="#e6edf3">WangYuli</text>
+  <text x="500" y="138" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" fill="#8b949e">Linux kernel · block layer · storage IO</text>
+  <text x="500" y="168" font-family="'Noto Sans CJK SC', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#58a6ff">Linux 内核开发 · 块层与存储 IO</text>
+  <text x="500" y="210" font-family="ui-monospace, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" fill="#484f58">github.com/Avenger-285714</text>
+</svg>
