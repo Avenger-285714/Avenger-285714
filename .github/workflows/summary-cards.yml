@@ -13,6 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # THEME takes a single theme only; run once per theme (light + dark)
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          THEME: "github"
+          AUTO_PUSH: false
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -21,3 +31,11 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 8
           THEME: "github_dark"
+          AUTO_PUSH: false
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "chore: regenerate summary cards"
+          git push

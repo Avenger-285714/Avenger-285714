@@ -1,4 +1,7 @@
-<img src="assets/banner.svg" width="100%" alt="WangYuli, Linux kernel development" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="WangYuli, Linux kernel development">
+</picture>
 
 <div align="center">
 
@@ -6,7 +9,7 @@
 [![blog](https://img.shields.io/badge/blog-avenger--285714.github.io-3fb950?style=flat-square)](https://avenger-285714.github.io)
 [![deepin](https://img.shields.io/badge/packages-deepin-007CFF?style=flat-square)](https://www.deepin.org)
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=E6EDF3&random=false&width=640&lines=Linux+kernel+development+in+C;block+layer+%2F+storage+IO;Rust+for+tools+and+desktop+apps)](https://readme-typing-svg.demolab.com)
+<a href="https://readme-typing-svg.demolab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=E6EDF3&random=false&width=640&lines=Linux+kernel+development+in+C;block+layer+%2F+storage+IO;Rust+for+tools+and+desktop+apps"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=1F2328&random=false&width=640&lines=Linux+kernel+development+in+C;block+layer+%2F+storage+IO;Rust+for+tools+and+desktop+apps" alt="typing"></picture></a>
 
 </div>
 
@@ -18,13 +21,16 @@ I'm WangYuli, a system software developer in Beijing. Most of my work is on the 
 
 ## GitHub stats / 统计
 
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details"><img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats">
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg"><img src="profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="profile details"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg"><img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="stats"></picture>
 
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repositories per language"><img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time">
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="repositories per language"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg"><img src="profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="productive time"></picture>
 
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most commit language">
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg"><img src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="most commit language"></picture>
 
-<img src="https://streak-stats.demolab.com?user=Avenger-285714&theme=github-dark-blue&hide_border=true" width="60%" alt="commit streak">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Avenger-285714&theme=github-dark-blue&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Avenger-285714&theme=github&hide_border=true" width="60%" alt="commit streak">
+</picture>
 
 ## My programming activity / 编程活动
 
@@ -47,7 +53,10 @@ Charts will show up here after a few days of tracking.
 
 ## Contribution graph / 贡献图
 
-<img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avenger-285714/Avenger-285714/output/github-snake-dark.svg">
