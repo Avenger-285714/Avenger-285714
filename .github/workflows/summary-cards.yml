@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # THEME takes a single theme only; run once per theme (light + dark)
+      # THEME takes a single theme only and the action wipes the output dir on
+      # every run, so park the light cards in /tmp before regenerating the dark set
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -23,6 +24,8 @@ jobs:
           UTC_OFFSET: 8
           THEME: "github"
           AUTO_PUSH: false
+      - name: Park light cards
+        run: mv profile-summary-card-output /tmp/summary-cards-light
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -32,6 +35,8 @@ jobs:
           UTC_OFFSET: 8
           THEME: "github_dark"
           AUTO_PUSH: false
+      - name: Restore light cards
+        run: cp -r /tmp/summary-cards-light/github profile-summary-card-output/
       - name: Commit & push
         run: |
           git config user.name github-actions
