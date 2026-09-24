@@ -3,6 +3,7 @@ settings:
   max_lines: 8
   disabled_events:
     - comments
+    - push
     - star
     - fork
     - create_repo
@@ -11,3 +12,19 @@ settings:
     timezone: "GMT+08:00"
     text: "Last updated: {DATE}"
     format: "yyyy-mm-dd HH:MM"
+messages:
+  push: "⬆️ Pushed to {REPO}"
+  issue_opened: "❗️ Opened an issue in {REPO}"
+  issue_closed: "✔️ Closed an issue in {REPO}"
+  pr_opened: "💪 Opened a PR in {REPO}"
+  pr_merged: "🎉 Merged a PR in {REPO}"
+  pr_closed: "❌ Closed a PR in {REPO}"
+  changes_approved: "👍 Approved a PR in {REPO}"
+  changes_requested: "🔴 Requested changes on a PR in {REPO}"
+  new_release: "📦 Released a version of {REPO}"
+  added_member: "🤝 Became a collaborator on {REPO}"
+  wiki_create: "📖 Created a wiki page in {REPO}"
+  create_repo: "📔 Created repository {REPO}"
+  fork_repo: "🔱 Forked {REPO}"
+  new_star: "⭐ Starred {REPO}"
+  comments: "💬 Commented in {REPO}"
