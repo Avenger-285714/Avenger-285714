@@ -32,18 +32,17 @@ WakaTime tracks my coding time; the charts render live on every page load.
 
 编码时长由 [WakaTime](https://wakatime.com) 统计，图表随页面加载实时刷新。
 
+[![WakaTime total coding time](https://wakatime.com/badge/user/9f5ee620-d071-4a5e-b45d-a89f7722ae0f.svg)](https://wakatime.com/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f)
+
 <!-- WAKATIME-PLACEHOLDER
-     Replace this block once tracking data builds up.
-     7-day coding activity:
-       <img src="https://wakatime.com/share/@USER_ID/CHART_ID.svg" width="75%">
-     language breakdown:
-       <img src="https://wakatime.com/share/@USER_ID/CHART_ID.svg" width="75%">
-     Get the URLs from the WakaTime dashboard: open a chart, click "Embed",
-     copy the SVG link. -->
+     When aggregated data shows up in the dashboard, add embeddable charts here:
+     dashboard → Share → Embeddable charts → copy the SVG link.
+     7-day activity / language breakdown:
+       <img src="https://wakatime.com/share/@USER_ID/CHART_ID.svg" width="75%"> -->
 
-Charts will show up here after a few days of tracking.
+Activity charts will appear here once aggregated data is available.
 
-接入统计后，图表几天内就会出现。
+聚合数据就绪后，这里会展示活动图表。
 
 ## Contribution graph / 贡献图
 
