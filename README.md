@@ -34,15 +34,7 @@ WakaTime tracks my coding time; the charts render live on every page load.
 
 [![WakaTime total coding time](https://wakatime.com/badge/user/9f5ee620-d071-4a5e-b45d-a89f7722ae0f.svg)](https://wakatime.com/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f)
 
-<!-- WAKATIME-PLACEHOLDER
-     When aggregated data shows up in the dashboard, add embeddable charts here:
-     dashboard → Share → Embeddable charts → copy the SVG link.
-     7-day activity / language breakdown:
-       <img src="https://wakatime.com/share/@USER_ID/CHART_ID.svg" width="75%"> -->
-
-Activity charts will appear here once aggregated data is available.
-
-聚合数据就绪后，这里会展示活动图表。
+<figure><embed src="https://wakatime.com/share/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f/ff60e259-a824-4231-a0a5-856678c5838e.svg"></embed></figure>
 
 ## Contribution graph / 贡献图
 
