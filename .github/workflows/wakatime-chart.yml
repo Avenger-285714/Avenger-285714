@@ -33,5 +33,5 @@ jobs:
           fi
           git commit -m "docs(readme): update WakaTime languages chart
 
-Assisted-by: ZCode"
+          Assisted-by: ZCode"
           git push
