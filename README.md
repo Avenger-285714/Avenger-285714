@@ -34,7 +34,7 @@ WakaTime tracks my coding time; the charts render live on every page load.
 
 [![WakaTime total coding time](https://wakatime.com/badge/user/9f5ee620-d071-4a5e-b45d-a89f7722ae0f.svg)](https://wakatime.com/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f)
 
-<img src="https://wakatime.com/share/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f/3901b479-5353-4f66-bb58-af25d5daf14b.svg" width="75%" alt="Languages over All Time">
+<img src="assets/wakatime-languages.svg" width="75%" alt="Languages over All Time">
 
 ## Contribution graph / 贡献图
 
