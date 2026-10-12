@@ -34,7 +34,7 @@ WakaTime tracks my coding time; the charts render live on every page load.
 
 [![WakaTime total coding time](https://wakatime.com/badge/user/9f5ee620-d071-4a5e-b45d-a89f7722ae0f.svg)](https://wakatime.com/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f)
 
-<figure><embed src="https://wakatime.com/share/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f/ff60e259-a824-4231-a0a5-856678c5838e.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@9f5ee620-d071-4a5e-b45d-a89f7722ae0f/3901b479-5353-4f66-bb58-af25d5daf14b.svg"></embed></figure>
 
 ## Contribution graph / 贡献图
 
