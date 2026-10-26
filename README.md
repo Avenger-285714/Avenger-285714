@@ -52,6 +52,7 @@ WakaTime tracks my coding time; the charts render live on every page load.
 ## Recent activity / 最近动态
 
 <!--RECENT_ACTIVITY:start-->
+1. ❌ Closed a PR in [deepin-community/kernel](https://github.com/deepin-community/kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## What I'm working on / 在做什么
